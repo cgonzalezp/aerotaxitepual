@@ -1,0 +1,2 @@
+[09-Mar-2015 17:40:26 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aerotaxi/public_html/query.php:14) in /home/aerotaxi/public_html/query.php on line 29
+[09-Mar-2015 17:41:55 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aerotaxi/public_html/query.php:14) in /home/aerotaxi/public_html/query.php on line 29
